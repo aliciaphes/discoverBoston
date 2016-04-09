@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Discover Boston</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="suggestion">You should probably go see the...</string>
+    <string name="slang">Learn Boston slang</string>
+    <string name="sports">Watch sports</string>
+    <string name="eat_drink">Eat and drink</string>
+    <string name="title">5 ways to discover Boston</string>
+    <string name="movies">Watch movies shot here</string>
+    <string name="explore">Explore the city</string>
+</resources>
