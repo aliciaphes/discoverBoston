@@ -8,11 +8,13 @@ INSTRUCTIONS:
 
 This app uses the Google maps API so you need to add your API key to the file /app/src/debug/res/values/google_maps_api.xml as follows:
 
+```xml
 <resources>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
         AIza.......
     </string>
 </resources>
+```
 
 
 
