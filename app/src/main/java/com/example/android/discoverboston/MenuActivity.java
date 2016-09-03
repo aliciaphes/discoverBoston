@@ -71,6 +71,17 @@ public class MenuActivity extends AppCompatActivity {
                 }
             });
         }
+
+        card = (CardView) findViewById(R.id.card_view6);
+
+        if (card != null) {
+            card.setOnClickListener(new View.OnClickListener() {
+                public void onClick(View view) {
+                    Intent myIntent = new Intent(view.getContext(), TwitterActivity.class);
+                    startActivity(myIntent);
+                }
+            });
+        }
     }
 }
 

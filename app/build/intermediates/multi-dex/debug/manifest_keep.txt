@@ -1,0 +1,25 @@
+-keep class com.example.android.discoverboston.MainActivity { <init>(); }
+-keep class com.example.android.discoverboston.MenuActivity { <init>(); }
+-keep class com.example.android.discoverboston.MoviesActivity { <init>(); }
+-keep class com.example.android.discoverboston.PhotosActivity { <init>(); }
+-keep class com.example.android.discoverboston.SlangActivity { <init>(); }
+-keep class com.example.android.discoverboston.SportsActivity { <init>(); }
+-keep class com.example.android.discoverboston.MapsActivity { <init>(); }
+-keep class com.example.android.discoverboston.TwitterActivity { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerActivity { <init>(); }
+-keep class com.twitter.sdk.android.tweetcomposer.TweetUploadService { <init>(); }
+-keep class com.twitter.sdk.android.core.identity.OAuthActivity { <init>(); }
+-keep class com.twitter.sdk.android.core.identity.ShareEmailActivity { <init>(); }
+-keep class com.twitter.sdk.android.tweetui.PlayerActivity { <init>(); }
+-keep class com.twitter.sdk.android.tweetui.GalleryActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

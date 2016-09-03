@@ -8,6 +8,7 @@
          location permissions for the 'MyLocation' functionality. 
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -53,7 +54,11 @@
 
         <activity
             android:name=".MapsActivity"
-            android:label="@string/title_activity_maps"></activity>
+            android:label="@string/title_activity_maps" />
+        <!--<uses-library android:name="com.google.android.maps"/>-->
+        <activity android:name=".TwitterActivity"></activity>
+
+        <meta-data android:name="io.fabric.ApiKey" android:value="g8ifRb31ce5nENLybALTe086x"/>
     </application>
 
 </manifest>

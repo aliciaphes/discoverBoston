@@ -8,4 +8,13 @@
     <string name="title">5 ways to discover Boston</string>
     <string name="movies">Watch movies shot here</string>
     <string name="explore">Explore the city</string>
+    <string name="twitter">What is Twitter saying?</string>
+    <string name="go">Let\'s go!</string>
+    <string name="translate">Translate</string>
+    <string name="if_you_like">If you like...</string>
+    <string name="ice_hockey">Ice hockey</string>
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="add_another_movie">Add another movie...</string>
+    <string name="add">Add</string>
 </resources>

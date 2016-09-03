@@ -7,11 +7,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.android.test.MoviesActivity">
+    tools:context="com.example.android.discoverboston.MoviesActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
 
@@ -37,7 +37,7 @@
                 android:layout_weight="2"
                 android:id="@+id/movie"
                 android:layout_marginBottom="16dp"
-                android:hint="Add another movie..." />
+                android:hint="@string/add_another_movie" />
 
             <Button
                 style="?android:attr/buttonStyleSmall"
@@ -47,7 +47,7 @@
                 android:layout_gravity="bottom"
                 android:layout_weight="0.5"
                 android:onClick="addMovie"
-                android:text="Add" />
+                android:text="@string/add" />
 
         </LinearLayout>
 
