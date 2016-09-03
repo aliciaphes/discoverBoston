@@ -344,21 +344,21 @@ public final class R {
 		public static final int tw__cacerts = 0x7f060000;
 	}
 	public static final class string {
-		public static final int kit_name = 0x7f070046;
+		public static final int kit_name = 0x7f070048;
 		public static final int tw__allow_btn_txt = 0x7f070028;
-		public static final int tw__composer_hint = 0x7f07004d;
+		public static final int tw__composer_hint = 0x7f07004f;
 		public static final int tw__cta_text = 0x7f070029;
-		public static final int tw__install = 0x7f07004e;
+		public static final int tw__install = 0x7f070050;
 		public static final int tw__like_tweet = 0x7f07002a;
 		public static final int tw__liked_tweet = 0x7f07002b;
 		public static final int tw__loading_tweet = 0x7f07002c;
 		public static final int tw__login_btn_txt = 0x7f07002d;
-		public static final int tw__max_tweet_chars = 0x7f07004f;
+		public static final int tw__max_tweet_chars = 0x7f070051;
 		public static final int tw__not_now_btn_txt = 0x7f07002e;
 		public static final int tw__pause = 0x7f07002f;
 		public static final int tw__play = 0x7f070030;
-		public static final int tw__play_store = 0x7f070050;
-		public static final int tw__post_tweet = 0x7f070051;
+		public static final int tw__play_store = 0x7f070052;
+		public static final int tw__post_tweet = 0x7f070053;
 		public static final int tw__relative_date_format_long = 0x7f070031;
 		public static final int tw__relative_date_format_short = 0x7f070032;
 		public static final int tw__replay = 0x7f070033;
