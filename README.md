@@ -8,6 +8,14 @@ ALicia P., Started project on March 2016.
 
 </details>
 
+#Details
+![Main screen](./scr1.jpg "Main screen")
+![Main menu](./scr2.jpg "Main menu")
+![Eat and drink](./scr3.jpg "Eat and drink")
+![Explore the city](./scr4.jpg "Explore the city")
+![Watch sports](./scr5.jpg "Watch sports")
+![Learn Boston slang](./scr6.jpg "Learn Boston slang")
+![Movies shot here](./scr7.jpg "Movies shot here")
 
 INSTRUCTIONS:
 
